@@ -641,13 +641,13 @@
 	(embedded_fonts no)
 	(model "${CLECTRIC_DIY}/clectric-diy.3dshapes/ES_Daisy_Seed_Rev7-1.step"
 		(offset
-			(xyz -1.5 -49.5 0)
+			(xyz 16.5 1.5 2.5)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -0)
+			(xyz -0 -0 180)
 		)
 	)
 )
